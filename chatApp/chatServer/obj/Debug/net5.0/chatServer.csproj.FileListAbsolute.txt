@@ -1,0 +1,48 @@
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.exe
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.deps.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\ref\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\bin\Debug\net5.0\chatServer.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\ref\chatServer.dll
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.pdb
+C:\Users\yusuf\OneDrive - Trent University\WINTER_2022\COIS 4310\chatApp\chatServer\obj\Debug\net5.0\chatServer.genruntimeconfig.cache
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.exe
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.deps.json
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.json
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.dev.json
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.dll
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\ref\chatServer.dll
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\bin\Debug\net5.0\chatServer.pdb
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.AssemblyReference.cache
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfoInputs.cache
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfo.cs
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.CoreCompileInputs.cache
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.dll
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\ref\chatServer.dll
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.pdb
+D:\ACADEMICS\4-1\COIS_4310\FinalProject\chatApp\chatServer\obj\Debug\net5.0\chatServer.genruntimeconfig.cache
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.exe
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.deps.json
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.json
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.runtimeconfig.dev.json
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.dll
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\ref\chatServer.dll
+D:\GITHUB Projects\C#\chatApp\chatServer\bin\Debug\net5.0\chatServer.pdb
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.AssemblyReference.cache
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfoInputs.cache
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.AssemblyInfo.cs
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.csproj.CoreCompileInputs.cache
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.dll
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\ref\chatServer.dll
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.pdb
+D:\GITHUB Projects\C#\chatApp\chatServer\obj\Debug\net5.0\chatServer.genruntimeconfig.cache
